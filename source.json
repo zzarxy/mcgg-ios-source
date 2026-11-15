@@ -1,0 +1,43 @@
+{
+  "name": "MCGG Live",
+  "identifier": "com.zzarxy.mcgglive.source",
+  "subtitle": "Личный источник zzarxy",
+  "description": "Живой экран и журнал бота Magic Chess с ПК в домашней сети.",
+  "iconURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/icon.png",
+  "tintColor": "6FB6FF",
+  "apps": [
+    {
+      "name": "MCGG Live",
+      "bundleIdentifier": "com.zzarxy.mcgglive",
+      "developerName": "zzarxy",
+      "subtitle": "Дашборд MCGG",
+      "localizedDescription": "Живой экран и журнал бота Magic Chess с ПК в домашней сети.",
+      "iconURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/icon.png",
+      "tintColor": "6FB6FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "buildVersion": "4",
+          "date": "2026-11-15T07:04:48Z",
+          "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.4.ipa",
+          "size": 205193,
+          "minOSVersion": "16.0",
+          "localizedDescription": "Сборка 4"
+        }
+      ],
+      "version": "1.0.4",
+      "versionDate": "2026-11-15T07:04:48Z",
+      "versionDescription": "Сборка 4",
+      "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.4.ipa",
+      "size": 205193,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Подключение к дашборду MCGG в домашней сети."
+        }
+      }
+    }
+  ],
+  "news": []
+}
