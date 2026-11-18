@@ -17,20 +17,20 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.0.14",
-          "buildVersion": "14",
-          "date": "2026-11-17T15:36:26Z",
-          "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.14.ipa",
-          "size": 188140,
+          "version": "1.0.16",
+          "buildVersion": "16",
+          "date": "2026-11-18T14:51:03Z",
+          "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.16.ipa",
+          "size": 231260,
           "minOSVersion": "16.0",
-          "localizedDescription": "Сборка 14"
+          "localizedDescription": "Сборка 16"
         }
       ],
-      "version": "1.0.14",
-      "versionDate": "2026-11-17T15:36:26Z",
-      "versionDescription": "Сборка 14",
-      "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.14.ipa",
-      "size": 188140,
+      "version": "1.0.16",
+      "versionDate": "2026-11-18T14:51:03Z",
+      "versionDescription": "Сборка 16",
+      "downloadURL": "https://raw.githubusercontent.com/zzarxy/mcgg-ios-source/main/MCGGLive-1.0.16.ipa",
+      "size": 231260,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
